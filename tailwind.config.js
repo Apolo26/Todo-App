@@ -8,7 +8,6 @@ module.exports = {
         inter: "'Inter', serif",
       }
    }  
-   
   },
   plugins: [],
 }
